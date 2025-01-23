@@ -25,6 +25,18 @@ This analysis leverages on SQL-based descriptive and diagnostic analytics to ana
 The following metrics were analyzed to provide an overview of employee demographics and distribution from the employee performance and employee test tables:
 ![Employee Test table](https://github.com/user-attachments/assets/a0b4283a-7003-4643-ac4a-f76a254c45a4)
 
+
+The dataset comprises 1,470 employees, with the maximum length of service being 31 years. This indicates a mix of experienced and newer employees. 
+The highest number of employees work in the Sales and Marketing department (446), followed by Research & Development (291). The Human Resources department has the fewest employees (63).
+![Sales department](https://github.com/user-attachments/assets/97e2c9e9-c58a-4e43-8a44-8320db64450e)
+
+
+72.7% of employees are male (1,069 employees), while 27.3% are female (401 employees). This highlights a gender imbalance.
+The majority of employees (51%) are aged 30-39 (749 employees), while only 7 employees are aged 60 and above. Employees aged 20-29 make up 25% of the workforce. The most represented age group is 30-39, while the least represented is 60+. This suggests opportunities for intergenerational knowledge sharing and mentorship programs.
+
+
+
+
 * How many employees are in the organization, and what is the maximum length of service?
 
 * Which department has the most and fewest employees?
