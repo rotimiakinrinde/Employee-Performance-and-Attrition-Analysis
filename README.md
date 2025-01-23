@@ -31,8 +31,9 @@ The highest number of employees work in the Sales and Marketing department (446)
 ![Sales department](https://github.com/user-attachments/assets/97e2c9e9-c58a-4e43-8a44-8320db64450e)
 
 
-72.7% of employees are male (1,069 employees), while 27.3% are female (401 employees). This highlights a gender imbalance.
-The majority of employees (51%) are aged 30-39 (749 employees), while only 7 employees are aged 60 and above. Employees aged 20-29 make up 25% of the workforce. The most represented age group is 30-39, while the least represented is 60+. This suggests opportunities for intergenerational knowledge-sharing and mentorship programs.
+The analysis identifies, 72.7% of employees are male (1,069 employees), while 27.3% are female (401 employees). This highlights a gender imbalance.
+The majority of employees (51%) are aged 30-39 (749 employees), while only 7 employees are aged 60 and above. Employees aged 20-29 make up 25% of the workforce. 
+The analysis further shows that the most represented age group is 30-39, while the least represented is 60+. This suggests opportunities for intergenerational knowledge-sharing and mentorship programs.
 ![Age group of highest and lowest employee](https://github.com/user-attachments/assets/49fa1645-6f55-478a-8dc2-00268d3f68ac)
 
 ### Diagnostic Analytics
