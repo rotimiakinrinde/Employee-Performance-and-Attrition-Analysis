@@ -6,9 +6,9 @@ This project analyses employee performance, attrition, and demographics for Emer
 
 Emerald Technologies has over 1 billion subscribers and employs a diverse workforce across various regions and departments. The company faces challenges with and want to :
 
-1. **High Attrition Rates:** Understanding factors driving employee turnover.
-2. **Performance Gaps:** Identifying low-performing employees for targeted development.
-3. **Training Effectiveness:** Optimizing training programs to improve satisfaction and performance.
+1. **High Attrition Rates:** Understand factors driving employee turnover.
+2. **Performance Gaps:** Identify low-performing employees for targeted development.
+3. **Training Effectiveness:** Optimise training programs to improve satisfaction and performance.
 
 This analysis leverages on SQL-based descriptive and diagnostic analytics to analyse employees' data and provide actionable insights.
 
