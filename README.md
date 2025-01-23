@@ -22,6 +22,8 @@ This analysis leverages on SQL-based descriptive and diagnostic analytics to ana
 ## Key Questions Addressed
 
 ### Descriptive Analytics
+The following metrics were analyzed to provide an overview of employee demographics and distribution from the employee performance and employee test tables:
+![Employee Test table](https://github.com/user-attachments/assets/a0b4283a-7003-4643-ac4a-f76a254c45a4)
 
 * How many employees are in the organization, and what is the maximum length of service?
 
