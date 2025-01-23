@@ -47,3 +47,22 @@ This analysis leverages on SQL-based descriptive and diagnostic analytics to ana
 
 * Which departments and regions report the highest job satisfaction?
 
+
+### Recommendations
+
+**Attrition Mitigation:**
+
+* Implement targeted retention strategies in regions and departments with high attrition.
+
+**Training Optimization:**
+
+* Increase training frequency in low-performing departments.
+
+* Introduce tailored training programs based on job levels and age groups.
+
+**Promotion and Satisfaction:**
+
+* Use performance metrics to develop fair appraisal and promotion policies.
+
+* Address job dissatisfaction in departments with low scores.
+
