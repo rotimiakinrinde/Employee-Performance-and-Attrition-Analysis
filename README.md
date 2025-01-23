@@ -4,7 +4,7 @@ This project analyses employee performance, attrition, and demographics for Emer
 
 ### Business Context
 
-Emerald Technologies has over 1 billion subscribers and employs a diverse workforce across various regions and departments. The company faces challenges with:
+Emerald Technologies has over 1 billion subscribers and employs a diverse workforce across various regions and departments. The company faces challenges with and want to :
 
 1. **High Attrition Rates:** Understanding factors driving employee turnover.
 2. **Performance Gaps:** Identifying low-performing employees for targeted development.
